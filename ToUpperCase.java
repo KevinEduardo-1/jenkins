@@ -4,6 +4,7 @@ public class ToUpperCase {
             String input = args[0];
             String output = input.toUpperCase();
             System.out.println(output);
+            System.out.println("que rica colaaaaa: "+output);
 
         }else{
             System.out.println("Por favor ingrese un argumento");
